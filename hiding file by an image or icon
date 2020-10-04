@@ -1,0 +1,4 @@
+<label htmlFor="photoUpload">
+    <PhotoSizeSelectActualOutlinedIcon fontSize="small" style={{paddingRight:'10px'}}/>
+    <input type="file" id="photoUpload" style={{display:"none"}}/>
+</label>
